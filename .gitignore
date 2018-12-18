@@ -1,0 +1,11 @@
+__pycache__/
+.idea/
+env/
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache
+coverage.xml
+.pytest_cache/
+
